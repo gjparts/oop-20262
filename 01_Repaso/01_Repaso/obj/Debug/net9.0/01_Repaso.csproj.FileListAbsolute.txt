@@ -1,0 +1,14 @@
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\bin\Debug\net9.0\01_Repaso.exe
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\bin\Debug\net9.0\01_Repaso.deps.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\bin\Debug\net9.0\01_Repaso.runtimeconfig.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\bin\Debug\net9.0\01_Repaso.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\bin\Debug\net9.0\01_Repaso.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.AssemblyInfo.cs
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\refint\01_Repaso.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.genruntimeconfig.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\ref\01_Repaso.dll
