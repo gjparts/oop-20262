@@ -102,9 +102,27 @@ y que ignora los caracteres de escape \n\n\n\n\t fin");
             {
                 //codigo propenso a fallar
                 //Capturar datos para colocarlos en las variables
+                int a;
+                Console.Write("Digite un numero entero: ");
+                a = int.Parse(Console.ReadLine());
 
+                double b;
+                Console.Write("Digite un numero: ");
+                b = double.Parse(Console.ReadLine());
+
+                float c;
+                Console.Write("Digite un numero: ");
+                c = float.Parse(Console.ReadLine());
+
+                long d;
+                Console.Write("Digite un entero largo: ");
+                d = long.Parse(Console.ReadLine());
+
+                //imprimo usando interpolacion
+                Console.WriteLine($"valor de a: {a}, valor de b: {b}");
+                Console.WriteLine($"valor de c: {c}, valor de d: {d}");
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 //codigo a ejecutar en caso de falla
                 Console.WriteLine("Conversion ha fallado");

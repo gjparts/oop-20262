@@ -12,3 +12,4 @@ C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\ob
 C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.pdb
 C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.genruntimeconfig.cache
 C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\ref\01_Repaso.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\01_Repaso\01_Repaso\obj\Debug\net9.0\01_Repaso.sourcelink.json
