@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\bin\Debug\net9.0\03_Fechas.exe
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\bin\Debug\net9.0\03_Fechas.deps.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\bin\Debug\net9.0\03_Fechas.runtimeconfig.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\bin\Debug\net9.0\03_Fechas.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\bin\Debug\net9.0\03_Fechas.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\03_Fechas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\03_Fechas.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\03_Fechas.AssemblyInfo.cs
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\03_Fechas.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\03_Fechas.sourcelink.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\03_Fechas.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\refint\03_Fechas.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\03_Fechas.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\03_Fechas.genruntimeconfig.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\03_Fechas\03_Fechas\obj\Debug\net9.0\ref\03_Fechas.dll
