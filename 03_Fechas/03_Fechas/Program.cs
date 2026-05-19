@@ -99,6 +99,91 @@
                 Console.WriteLine("La fecha ingresada no esta en formato correcto.");
             }
 
+            //Operaciones con fechas
+            DateTime fecha6 = DateTime.Now;
+            Console.WriteLine(fecha6);
+
+            //Sumar 10 dias a fecha6
+            fecha6 = fecha6.AddDays(10);
+            Console.WriteLine(fecha6);
+
+            //Restar 1 mes a fecha6
+            fecha6 = fecha6.AddMonths(-1);
+            Console.WriteLine(fecha6);
+
+            //Tambien se pueden desencadenar:
+            //sumar 1 año y 2 meses a fecha6
+            fecha6 = fecha6.AddYears(1).AddMonths(2);
+            Console.WriteLine(fecha6);
+
+            //ejercicio: haga un programa que capture una fecha
+            //el programa va a mostrar el primer y ultimo dia de la
+            //fecha capturada.
+            //ejemplo:
+            //Digite fecha: 2026/3/13
+            //Primer dia del mes: 2026/3/1
+            //Ultimo dia del mes: 2026/3/31
+            try
+            {
+                Console.Write("Digite fecha: ");
+                DateTime fecha7 = DateTime.Parse(Console.ReadLine());
+                //forma 1:
+                Console.WriteLine($"Primer dia del mes: {fecha7.AddDays(-fecha7.Day+1)}");
+                Console.WriteLine($"Ultimo dia del mes: {fecha7.AddDays(-fecha7.Day + 1).AddMonths(1).AddDays(-1)}");
+
+                //forma 2: usando variables
+                DateTime primero = fecha7.AddDays(-fecha7.Day + 1);
+                DateTime ultimo = primero.AddMonths(1).AddDays(-1);
+                Console.WriteLine($"Primer dia del mes: {primero}");
+                Console.WriteLine($"Ultimo dia del mes: {ultimo}");
+
+                //forma 3: explorando los metodos de DateTime
+                primero = new DateTime(fecha7.Year, fecha7.Month, 1);
+                ultimo = new DateTime(fecha7.Year, fecha7.Month, DateTime.DaysInMonth(fecha7.Year, fecha7.Month));
+                Console.WriteLine($"Primer dia del mes: {primero}");
+                Console.WriteLine($"Ultimo dia del mes: {ultimo}");
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Fecha no valida.");
+            }
+
+            //Comparacion de fechas
+            try
+            {
+                DateTime a, b;
+                Console.Write("digite la fecha A: ");
+                a = DateTime.Parse (Console.ReadLine());
+                Console.Write("digite la fecha B: ");
+                b = DateTime.Parse(Console.ReadLine());
+
+                //son iguales?
+                if( a == b )
+                    Console.WriteLine("Las fechas son iguales");
+                else
+                {
+                    if (a > b)
+                        Console.WriteLine("fecha A es mayor a fecha B");
+                    else
+                        Console.WriteLine("fecha B es mayor a fecha A");
+                }
+
+                //Obtener la diferencia en dias entre las dos fechas
+                TimeSpan diferencia;
+                if (a > b)
+                    diferencia = a - b;
+                else
+                    diferencia = b - a;
+
+                Console.WriteLine($"Dias de diferencia entre A y B: {diferencia.Days}");
+                Console.WriteLine($"horas de diferencia entre A y B: {diferencia.TotalHours}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Fecha digitada no es valida");
+            }
+
         }
     }
 }
