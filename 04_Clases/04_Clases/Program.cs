@@ -49,6 +49,32 @@
             Console.WriteLine($"Edad: {m1.Edad}");
             Console.WriteLine($"Genero: {m1.Genero}");
             Console.WriteLine($"Hash de memoria: {m1.GetHashCode()}");
+
+            Persona per1 = new Persona();
+            Console.WriteLine("******************");
+            //escritura (set)
+            per1.Nombre = "Gerardo Portillo";
+            per1.Edad = 43;
+            per1.Genero = 'M';
+            per1.DNI = "1401198201055";
+            //lectura (get)
+            Console.WriteLine("Propiedades de per1:");
+            Console.WriteLine($"Nombre: {per1.Nombre}");
+            Console.WriteLine($"Edad: {per1.Edad}");
+            Console.WriteLine($"Genero: {per1.Genero}");
+            Console.WriteLine($"DNI: {per1.DNI}");
+
+            Persona per2 = new Persona();
+            //lectura (get)
+            Console.WriteLine("Propiedades de per2:");
+            Console.WriteLine($"Nombre: {per2.Nombre}");
+            Console.WriteLine($"Edad: {per2.Edad}");
+            Console.WriteLine($"Genero: {per2.Genero}");
+            Console.WriteLine($"DNI: {per2.DNI}");
+
+            //cambiar el valor de una propiedad ya definida:
+            per2.Nombre = "Filomeno Colinas";
+            Console.WriteLine($"Nombre: {per2.Nombre}");
         }
     }
 }
