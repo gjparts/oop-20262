@@ -40,5 +40,55 @@ namespace _04_Clases
             this.Genero = 'X';
             this.DNI = "No definido";
         }
+        public Persona(string nombre, int edad, char genero, string dni)
+        {
+            //Constructor con todos los parametros (se le llama asi
+            //a un constructor que inicializa todas las propiedades
+            //de una clase
+            //para nombrar los parametros de un constructor se recomienda
+            //usar camel Case o sino snake_case
+            this.Nombre = nombre;
+            this.Edad = edad;
+            this.Genero = genero;
+            this.DNI = dni;
+        }
+        public Persona(string nombre, int edad)
+        {
+            //Constructor con dos parametros
+            this.Nombre = nombre;
+            this.Edad = edad;
+            this.Genero = 'X';
+            this.DNI = "No definido";
+        }
+        //Metodos: son funciones declaradas dentro de una clase
+        public void Imprimir()
+        {
+            Console.WriteLine("*********** Perfil de la Persona ***********");
+            Console.WriteLine($"Nombre: {this.Nombre}");
+            Console.WriteLine($"Edad: {this.Edad}");
+            Console.WriteLine($"Genero: {this.GetGeneroDescripcion()}");
+            Console.WriteLine($"DNI: {this.DNI}");
+        }
+        public bool EsMayorDeEdad()
+        {
+            if (this.Edad >= 18)
+                return true;
+            else
+                return false;
+        }
+        //otras formas de hacer el metodo anterior:
+        /*public bool EsMayorDeEdad()
+        {
+            return this.Edad >= 18;
+        }*/
+        //public bool EsMayorDeEdad() => this.Edad >= 18;
+        public string GetGeneroDescripcion()
+        {
+            if (this.Genero == 'M') return "Masculino";
+            if (this.Genero == 'F') return "Femenino";
+            if (this.Genero == 'X') return "Otros";
+            //Si llego hasta aqiu es porque no se cumplio ningun if anterior
+            return "No configurado";
+        }
     }
 }

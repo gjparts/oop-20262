@@ -58,23 +58,31 @@
             per1.Genero = 'M';
             per1.DNI = "1401198201055";
             //lectura (get)
-            Console.WriteLine("Propiedades de per1:");
-            Console.WriteLine($"Nombre: {per1.Nombre}");
-            Console.WriteLine($"Edad: {per1.Edad}");
-            Console.WriteLine($"Genero: {per1.Genero}");
-            Console.WriteLine($"DNI: {per1.DNI}");
+            per1.Imprimir();
 
             Persona per2 = new Persona();
             //lectura (get)
-            Console.WriteLine("Propiedades de per2:");
-            Console.WriteLine($"Nombre: {per2.Nombre}");
-            Console.WriteLine($"Edad: {per2.Edad}");
-            Console.WriteLine($"Genero: {per2.Genero}");
-            Console.WriteLine($"DNI: {per2.DNI}");
+            per2.Imprimir();
 
             //cambiar el valor de una propiedad ya definida:
             per2.Nombre = "Filomeno Colinas";
             Console.WriteLine($"Nombre: {per2.Nombre}");
+
+            Persona per3 = new Persona("Estebancito Maravilla", 80, 'M', "1234");
+            per3.Imprimir();
+
+            Persona per4 = new Persona("Pedro Picapiedra", 35);
+            per4.Imprimir();
+
+            Console.WriteLine($"per1 es mayor de edad? {per1.EsMayorDeEdad()}");
+            Console.WriteLine($"per2 es mayor de edad? {per2.EsMayorDeEdad()}");
+            Console.WriteLine($"per3 es mayor de edad? {per3.EsMayorDeEdad()}");
+            Console.WriteLine($"per4 es mayor de edad? {per4.EsMayorDeEdad()}");
+            if( per1.EsMayorDeEdad() == true )
+                Console.WriteLine("per1 es mayor de edad");
+            else
+                Console.WriteLine("per1 no es mayor de edad");
+
         }
     }
 }
