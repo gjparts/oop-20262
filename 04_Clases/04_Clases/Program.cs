@@ -83,6 +83,13 @@
             else
                 Console.WriteLine("per1 no es mayor de edad");
 
+            Carro c1 = new Carro();
+            c1.Imprimir();
+
+            Carro c2 = new Carro("Toyota", "Rav4", "Blanco", 2018);
+            c2.Imprimir();
+
+
         }
     }
 }
