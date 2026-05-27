@@ -8,19 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gerardo\\.nuget\\packages\\": {}
+    "C:\\Users\\Gerardo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\04_Clases.csproj",
+      "projectUniqueName": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\04_Clases.csproj",
       "projectName": "04_Clases",
-      "projectPath": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\04_Clases.csproj",
+      "projectPath": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\04_Clases.csproj",
       "packagesPath": "C:\\Users\\Gerardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\obj\\",
+      "outputPath": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Gerardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net9.0": {
