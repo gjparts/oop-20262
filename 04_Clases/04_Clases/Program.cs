@@ -90,6 +90,17 @@
             c2.Imprimir();
 
 
+            try
+            {
+                //codigo propenso a fallar
+                Empleado em2 = new Empleado("Paul Allen", 70, 'M', 100000, 'P');
+                em2.Imprimir();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            
         }
     }
 }
