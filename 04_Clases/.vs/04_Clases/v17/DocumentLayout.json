@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1723E7F-E47F-4A24-98F1-7717A3F69071}|04_Clases\\04_Clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\04_clases\\04_clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1723E7F-E47F-4A24-98F1-7717A3F69071}|04_Clases\\04_Clases.csproj|solutionrelative:04_clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1723E7F-E47F-4A24-98F1-7717A3F69071}|04_Clases\\04_Clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\04_clases\\04_clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1723E7F-E47F-4A24-98F1-7717A3F69071}|04_Clases\\04_Clases.csproj|solutionrelative:04_clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\Estudiante.cs",
+              "RelativeDocumentMoniker": "04_Clases\\Estudiante.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\Estudiante.cs",
+              "RelativeToolTip": "04_Clases\\Estudiante.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:37:20.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\Empleado.cs",
               "RelativeDocumentMoniker": "04_Clases\\Empleado.cs",
               "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\Empleado.cs",
               "RelativeToolTip": "04_Clases\\Empleado.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA4wCUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T15:13:29.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\Carro.cs",
               "RelativeDocumentMoniker": "04_Clases\\Carro.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\Persona.cs",
               "RelativeDocumentMoniker": "04_Clases\\Persona.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Mascota.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\Mascota.cs",
               "RelativeDocumentMoniker": "04_Clases\\Mascota.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\04_Clases\\04_Clases\\Program.cs",
               "RelativeDocumentMoniker": "04_Clases\\Program.cs",
@@ -95,8 +112,7 @@
               "RelativeToolTip": "04_Clases\\Program.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T15:17:11.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T15:17:11.896Z"
             }
           ]
         }
