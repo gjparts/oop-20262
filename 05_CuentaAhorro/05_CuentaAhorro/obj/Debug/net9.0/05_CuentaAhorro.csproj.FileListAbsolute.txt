@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\bin\Debug\net9.0\05_CuentaAhorro.exe
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\bin\Debug\net9.0\05_CuentaAhorro.deps.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\bin\Debug\net9.0\05_CuentaAhorro.runtimeconfig.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\bin\Debug\net9.0\05_CuentaAhorro.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\bin\Debug\net9.0\05_CuentaAhorro.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\05_CuentaAhorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\05_CuentaAhorro.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\05_CuentaAhorro.AssemblyInfo.cs
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\05_CuentaAhorro.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\05_CuentaAhorro.sourcelink.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\05_CuentaAhorro.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\refint\05_CuentaAhorro.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\05_CuentaAhorro.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\05_CuentaAhorro.genruntimeconfig.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\05_CuentaAhorro\05_CuentaAhorro\obj\Debug\net9.0\ref\05_CuentaAhorro.dll
