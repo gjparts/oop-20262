@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\06_asociacion_clases\\06_asociacion_clases\\bateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|solutionrelative:06_asociacion_clases\\bateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\06_asociacion_clases\\06_asociacion_clases\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|solutionrelative:06_asociacion_clases\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\06_asociacion_clases\\06_asociacion_clases\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|solutionrelative:06_asociacion_clases\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\06_asociacion_clases\\06_asociacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|solutionrelative:06_asociacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bateria.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Bateria.cs",
+              "RelativeDocumentMoniker": "06_Asociacion_clases\\Bateria.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Bateria.cs",
+              "RelativeToolTip": "06_Asociacion_clases\\Bateria.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:50:19.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fabricante.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Fabricante.cs",
+              "RelativeDocumentMoniker": "06_Asociacion_clases\\Fabricante.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Fabricante.cs",
+              "RelativeToolTip": "06_Asociacion_clases\\Fabricante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:48:22.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operador.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Operador.cs",
+              "RelativeDocumentMoniker": "06_Asociacion_clases\\Operador.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Operador.cs",
+              "RelativeToolTip": "06_Asociacion_clases\\Operador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:46:54.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Program.cs",
               "RelativeDocumentMoniker": "06_Asociacion_clases\\Program.cs",
