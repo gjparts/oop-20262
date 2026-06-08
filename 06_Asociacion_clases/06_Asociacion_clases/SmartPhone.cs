@@ -77,6 +77,30 @@ namespace _06_Asociacion_clases
             Console.WriteLine($"Fabricante: {this.Marca.Nombre}"); //referencia en cascada
             Console.WriteLine($"Modelo: {this.Modelo}");
 
+            Console.WriteLine($"Almacenamiento: {this.Almacenamiento}Gb");
+            Console.WriteLine($"RAM: {this.Ram}Gb");
+
+            Console.WriteLine("Datos de la bateria:");
+            Console.WriteLine($"\tMarca: {this.Bateria.Marca.Nombre}");
+            Console.WriteLine($"\tMiliamperios: {this.Bateria.Miliamperios}");
+
+            /*En vista que la relacion con Chip es por Agregacion entonces
+             existe la posibilidasd de que Chip1 o Chip2 no tengan asignado
+            algun objeto o sea que pueden estar apuntando a null.*/
+            if( this.Chip1 != null)
+            {
+                //solo imprime Chip1 si este es diferente de null
+                Console.WriteLine("Chip 1:");
+                Console.WriteLine($"\tOperador: {this.Chip1.Proveedor.Nombre}");
+                Console.WriteLine($"\tNumero telefonico: {this.Chip1.NumeroTelefonico}");
+            }
+            if (this.Chip2 != null)
+            {
+                //solo imprime Chip1 si este es diferente de null
+                Console.WriteLine("Chip 2:");
+                Console.WriteLine($"\tOperador: {this.Chip2.Proveedor.Nombre}");
+                Console.WriteLine($"\tNumero telefonico: {this.Chip2.NumeroTelefonico}");
+            }
         }
     }
 }
