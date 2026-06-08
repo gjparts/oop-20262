@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "06_Asociacion_clases\\Bateria.cs",
               "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Bateria.cs",
               "RelativeToolTip": "06_Asociacion_clases\\Bateria.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwBIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T15:50:19.976Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "06_Asociacion_clases\\Fabricante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T15:48:22.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T15:48:22.725Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "06_Asociacion_clases\\Operador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T15:46:54.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T15:46:54.613Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "06_Asociacion_clases\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T15:46:30.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T15:46:30.642Z"
             }
           ]
         }
