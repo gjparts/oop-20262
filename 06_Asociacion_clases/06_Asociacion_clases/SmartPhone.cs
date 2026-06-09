@@ -77,8 +77,13 @@ namespace _06_Asociacion_clases
             Console.WriteLine($"Fabricante: {this.Marca.Nombre}"); //referencia en cascada
             Console.WriteLine($"Modelo: {this.Modelo}");
 
-            Console.WriteLine($"Almacenamiento: {this.Almacenamiento}Gb");
-            Console.WriteLine($"RAM: {this.Ram}Gb");
+            Console.WriteLine($"Almacenamiento: {(int)this.Almacenamiento}Gb");
+            Console.WriteLine($"RAM: {(int)this.Ram}Gb");
+            /*Observe que para imprimir la capacidad de almac. y de RAM usamos
+             el valor almacenado en la enumeracion, para lograr tener acceso
+            a dicho valor realizamos algo conocido como conversion explicita (int)
+            para indicar que el valor deseado de la enumeracion es el numero
+            entero asignado al item correspondiente.*/
 
             Console.WriteLine("Datos de la bateria:");
             Console.WriteLine($"\tMarca: {this.Bateria.Marca.Nombre}");

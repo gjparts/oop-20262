@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\06_asociacion_clases\\06_asociacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|solutionrelative:06_asociacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\06_asociacion_clases\\06_asociacion_clases\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|solutionrelative:06_asociacion_clases\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\06_asociacion_clases\\06_asociacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|solutionrelative:06_asociacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF72EB20-FB5F-4FC5-A916-9D747E4019DD}|06_Asociacion_clases\\06_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\06_asociacion_clases\\06_asociacion_clases\\bateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SmartPhone.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\SmartPhone.cs",
               "RelativeDocumentMoniker": "06_Asociacion_clases\\SmartPhone.cs",
               "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\SmartPhone.cs",
               "RelativeToolTip": "06_Asociacion_clases\\SmartPhone.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAQwFYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T15:06:52.608Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "06_Asociacion_clases\\Bateria.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAqwBIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T15:50:19.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T15:50:19.976Z"
             },
             {
               "$type": "Document",
@@ -88,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Program.cs",
               "RelativeDocumentMoniker": "06_Asociacion_clases\\Program.cs",
               "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\06_Asociacion_clases\\06_Asociacion_clases\\Program.cs",
               "RelativeToolTip": "06_Asociacion_clases\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T15:46:30.642Z",
               "EditorCaption": ""
