@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\08_asociacion_clases\\08_asociacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|solutionrelative:08_asociacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\08_asociacion_clases\\08_asociacion_clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|solutionrelative:08_asociacion_clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\08_asociacion_clases\\08_asociacion_clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|solutionrelative:08_asociacion_clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\08_asociacion_clases\\08_asociacion_clases\\categoriaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|solutionrelative:08_asociacion_clases\\categoriaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\08_asociacion_clases\\08_asociacion_clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145CC2A8-6F23-4427-A7C7-D703065832B6}|08_Asociacion_clases\\08_Asociacion_clases.csproj|solutionrelative:08_asociacion_clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\Factura.cs",
+              "RelativeDocumentMoniker": "08_Asociacion_clases\\Factura.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\Factura.cs",
+              "RelativeToolTip": "08_Asociacion_clases\\Factura.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwFsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:22:54.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\Producto.cs",
+              "RelativeDocumentMoniker": "08_Asociacion_clases\\Producto.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\Producto.cs",
+              "RelativeToolTip": "08_Asociacion_clases\\Producto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:17:21.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaProducto.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\CategoriaProducto.cs",
+              "RelativeDocumentMoniker": "08_Asociacion_clases\\CategoriaProducto.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\CategoriaProducto.cs",
+              "RelativeToolTip": "08_Asociacion_clases\\CategoriaProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:16:01.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "08_Asociacion_clases\\Cliente.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\Cliente.cs",
+              "RelativeToolTip": "08_Asociacion_clases\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:14:18.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\Program.cs",
+              "RelativeDocumentMoniker": "08_Asociacion_clases\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\08_Asociacion_clases\\08_Asociacion_clases\\Program.cs",
+              "RelativeToolTip": "08_Asociacion_clases\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:13:43.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
