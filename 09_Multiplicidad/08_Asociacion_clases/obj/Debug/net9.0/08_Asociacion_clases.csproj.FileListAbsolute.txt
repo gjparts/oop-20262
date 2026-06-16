@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\bin\Debug\net9.0\08_Asociacion_clases.exe
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\bin\Debug\net9.0\08_Asociacion_clases.deps.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\bin\Debug\net9.0\08_Asociacion_clases.runtimeconfig.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\bin\Debug\net9.0\08_Asociacion_clases.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\bin\Debug\net9.0\08_Asociacion_clases.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\08_Asociacion_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\08_Asociacion_clases.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\08_Asociacion_clases.AssemblyInfo.cs
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\08_Asociacion_clases.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\08_Asociacion_clases.sourcelink.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\08_Asociacion_clases.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\refint\08_Asociacion_clases.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\08_Asociacion_clases.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\08_Asociacion_clases.genruntimeconfig.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\08_Asociacion_clases\08_Asociacion_clases\obj\Debug\net9.0\ref\08_Asociacion_clases.dll
