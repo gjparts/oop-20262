@@ -31,7 +31,7 @@
                 Factura f2 = new Factura(2, new DateTime(2026, 6, 14), null, prods2);
                 f2.Imprimir();
 
-                Producto[] prods3 = { pr1, pr3, pr5, pr1, pr1, pr2, pr4 };
+                Producto[] prods3 = { pr1, pr3, pr5, null, pr1, pr2, pr4 };
                 Factura f3 = new Factura(3, DateTime.Now, c2, prods3);
                 f3.Imprimir();
 
