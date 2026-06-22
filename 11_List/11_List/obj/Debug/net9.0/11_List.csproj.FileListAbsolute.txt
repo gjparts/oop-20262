@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\bin\Debug\net9.0\11_List.exe
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\bin\Debug\net9.0\11_List.deps.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\bin\Debug\net9.0\11_List.runtimeconfig.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\bin\Debug\net9.0\11_List.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\bin\Debug\net9.0\11_List.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\11_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\11_List.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\11_List.AssemblyInfo.cs
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\11_List.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\11_List.sourcelink.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\11_List.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\refint\11_List.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\11_List.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\11_List.genruntimeconfig.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_List\11_List\obj\Debug\net9.0\ref\11_List.dll
