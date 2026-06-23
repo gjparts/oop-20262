@@ -116,6 +116,10 @@
             Console.WriteLine("**************************");
             Console.WriteLine(string.Join("\n", lista3));
 
+            List<string> lista4 = new List<string>(["Honduras","Guatemala","El Salvador"]);
+            Console.WriteLine("**************************");
+            Console.WriteLine(string.Join("\n", lista4));
+
         }
     }
 }
