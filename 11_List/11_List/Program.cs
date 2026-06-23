@@ -89,6 +89,33 @@
             Console.WriteLine("**************************");
             Console.WriteLine(string.Join("\n", lista3));
 
+            //leer un elemento de una List en C# se hace como en los arreglos
+            //mediante el uso de brackets o corchetes []
+            Console.WriteLine($"item 0 en lista3: {lista3[0]}");
+            Console.WriteLine($"item 3 en lista2: {lista2[3]}");
+            Console.WriteLine($"item 1 en lista1: {lista1[1]}");
+
+            //Eliminar un elemento dentro de un List en determinada posicion
+            lista3.RemoveAt(1); //eso elimina Amarillo de lista3
+
+            Console.WriteLine("**************************");
+            Console.WriteLine(string.Join("\n", lista3));
+
+            //Si Add se usa para agregar un nuevo item al final de la lista
+            //existe el metodo Insert que permite agregar un nuevo item
+            //en la posicion que desee en la lista
+            lista3.Insert(2, "Gris"); //inserta  Gris en la posicion 2 de lista3
+
+            Console.WriteLine("**************************");
+            Console.WriteLine(string.Join("\n", lista3));
+
+            //Si desea reemplazar (sobreescribir) un elemento existente
+            //en una lista, hagalo igual que en los arreglos:
+            lista3[1] = "Naranja";
+
+            Console.WriteLine("**************************");
+            Console.WriteLine(string.Join("\n", lista3));
+
         }
     }
 }
