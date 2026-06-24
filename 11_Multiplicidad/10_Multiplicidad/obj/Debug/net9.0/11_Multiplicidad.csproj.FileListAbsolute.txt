@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\bin\Debug\net9.0\11_Multiplicidad.exe
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\bin\Debug\net9.0\11_Multiplicidad.deps.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\bin\Debug\net9.0\11_Multiplicidad.runtimeconfig.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\bin\Debug\net9.0\11_Multiplicidad.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\bin\Debug\net9.0\11_Multiplicidad.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\11_Multiplicidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\11_Multiplicidad.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\11_Multiplicidad.AssemblyInfo.cs
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\11_Multiplicidad.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\11_Multiplicidad.sourcelink.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\11_Multiplicidad.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\refint\11_Multiplicidad.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\11_Multiplicidad.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\11_Multiplicidad.genruntimeconfig.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\11_Multiplicidad\10_Multiplicidad\obj\Debug\net9.0\ref\11_Multiplicidad.dll
