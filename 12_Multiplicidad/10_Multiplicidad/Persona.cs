@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _11_Multiplicidad
+namespace _12_Multiplicidad
 {
     public class Persona
     {

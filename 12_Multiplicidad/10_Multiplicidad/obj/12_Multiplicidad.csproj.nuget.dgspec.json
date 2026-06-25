@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\12_Multiplicidad\\10_Multiplicidad\\11_Multiplicidad.csproj": {}
+    "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\12_Multiplicidad\\10_Multiplicidad\\12_Multiplicidad.csproj": {}
   },
   "projects": {
-    "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\12_Multiplicidad\\10_Multiplicidad\\11_Multiplicidad.csproj": {
+    "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\12_Multiplicidad\\10_Multiplicidad\\12_Multiplicidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\12_Multiplicidad\\10_Multiplicidad\\11_Multiplicidad.csproj",
-        "projectName": "11_Multiplicidad",
-        "projectPath": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\12_Multiplicidad\\10_Multiplicidad\\11_Multiplicidad.csproj",
+        "projectUniqueName": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\12_Multiplicidad\\10_Multiplicidad\\12_Multiplicidad.csproj",
+        "projectName": "12_Multiplicidad",
+        "projectPath": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\12_Multiplicidad\\10_Multiplicidad\\12_Multiplicidad.csproj",
         "packagesPath": "C:\\Users\\Gerardo\\.nuget\\packages\\",
         "outputPath": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\12_Multiplicidad\\10_Multiplicidad\\obj\\",
         "projectStyle": "PackageReference",
