@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\13_Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FDDC99-A2BE-4A44-AE30-FF32B58BEC6D}|13_Herencia\\13_Herencia.csproj|p:\\programas unah\\2026-2\\programacion orientada a objetos\\13_herencia\\13_herencia\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FDDC99-A2BE-4A44-AE30-FF32B58BEC6D}|13_Herencia\\13_Herencia.csproj|solutionrelative:13_herencia\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FDDC99-A2BE-4A44-AE30-FF32B58BEC6D}|13_Herencia\\13_Herencia.csproj|p:\\programas unah\\2026-2\\programacion orientada a objetos\\13_herencia\\13_herencia\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FDDC99-A2BE-4A44-AE30-FF32B58BEC6D}|13_Herencia\\13_Herencia.csproj|solutionrelative:13_herencia\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FDDC99-A2BE-4A44-AE30-FF32B58BEC6D}|13_Herencia\\13_Herencia.csproj|p:\\programas unah\\2026-2\\programacion orientada a objetos\\13_herencia\\13_herencia\\enum\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FDDC99-A2BE-4A44-AE30-FF32B58BEC6D}|13_Herencia\\13_Herencia.csproj|solutionrelative:13_herencia\\enum\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FDDC99-A2BE-4A44-AE30-FF32B58BEC6D}|13_Herencia\\13_Herencia.csproj|p:\\programas unah\\2026-2\\programacion orientada a objetos\\13_herencia\\13_herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FDDC99-A2BE-4A44-AE30-FF32B58BEC6D}|13_Herencia\\13_Herencia.csproj|solutionrelative:13_herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\13_Herencia\\13_Herencia\\Estudiante.cs",
+              "RelativeDocumentMoniker": "13_Herencia\\Estudiante.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\13_Herencia\\13_Herencia\\Estudiante.cs",
+              "RelativeToolTip": "13_Herencia\\Estudiante.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:27:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\13_Herencia\\13_Herencia\\Persona.cs",
+              "RelativeDocumentMoniker": "13_Herencia\\Persona.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\13_Herencia\\13_Herencia\\Persona.cs",
+              "RelativeToolTip": "13_Herencia\\Persona.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:21:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\13_Herencia\\13_Herencia\\Enum\\Genero.cs",
+              "RelativeDocumentMoniker": "13_Herencia\\Enum\\Genero.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\13_Herencia\\13_Herencia\\Enum\\Genero.cs",
+              "RelativeToolTip": "13_Herencia\\Enum\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:20:25.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\13_Herencia\\13_Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "13_Herencia\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\13_Herencia\\13_Herencia\\Program.cs",
+              "RelativeToolTip": "13_Herencia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:19:50.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
