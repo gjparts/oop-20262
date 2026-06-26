@@ -13,6 +13,10 @@
             Console.WriteLine($"Carrera: {e1.Carrera}");
             e1.Saludar();
             e1.Estudiar();
+            /*Observe que Estudiante como hereda de la clase Persona tiene
+             las propiedades Nombre, Edad, Genero asi como las propiedades
+            Cuenta y Carrera. La clase Estudiante tambien tiene acceso a los
+            metodos Saludar y Estudiar.*/
 
         }
     }
