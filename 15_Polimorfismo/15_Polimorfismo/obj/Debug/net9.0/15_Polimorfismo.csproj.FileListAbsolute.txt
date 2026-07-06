@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\bin\Debug\net9.0\15_Polimorfismo.exe
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\bin\Debug\net9.0\15_Polimorfismo.deps.json
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\bin\Debug\net9.0\15_Polimorfismo.runtimeconfig.json
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\bin\Debug\net9.0\15_Polimorfismo.dll
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\bin\Debug\net9.0\15_Polimorfismo.pdb
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\15_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\15_Polimorfismo.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\15_Polimorfismo.AssemblyInfo.cs
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\15_Polimorfismo.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\15_Polimorfismo.sourcelink.json
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\15_Polimorfismo.dll
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\refint\15_Polimorfismo.dll
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\15_Polimorfismo.pdb
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\15_Polimorfismo.genruntimeconfig.cache
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\15_Polimorfismo\15_Polimorfismo\obj\Debug\net9.0\ref\15_Polimorfismo.dll

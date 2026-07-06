@@ -13,9 +13,9 @@ namespace _15_Polimorfismo
         public string Raza { get; set; }
 
         //Constructor
-        public Perro(string nombre, string especie,
+        public Perro(string nombre,
             int patas, bool TieneCola, string apodo, string raza)
-            : base(nombre, especie, patas, TieneCola)
+            : base(nombre, "Canino", patas, TieneCola)
         {
             this.Apodo = apodo;
             this.Raza = raza;

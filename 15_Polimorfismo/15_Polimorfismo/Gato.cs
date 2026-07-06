@@ -13,9 +13,9 @@ namespace _15_Polimorfismo
         public bool TienePelaje { get; set; }
 
         //Constructor
-        public Gato(string nombre, string especie,
+        public Gato(string nombre,
             int patas, bool TieneCola, string apodo, bool tienePelaje)
-            :base(nombre, especie, patas,TieneCola)
+            :base(nombre, "Felino", patas,TieneCola)
         {
             this.Apodo = apodo;
             this.TienePelaje = tienePelaje;
@@ -51,5 +51,17 @@ namespace _15_Polimorfismo
             Console.WriteLine($"Apodo: {this.Apodo}");
             Console.WriteLine($"Tiene Pelaje: {(this.TienePelaje ? "Si" : "No")}");
         }
+
+        //tambien es posible hacer override al metodo ToString()
+        //que biene hererado desde Object
+        public override string ToString()
+        {
+            return $"Soy un gato y me apodan {this.Apodo}";
+        }
+        /*en .Net toda clase hereda de Object, por lo tanto
+         cualquier objeto tendra disponible el metodo ToString()
+        asi como otros metodos como Equals, GetType, GetHashCode
+        a estos metodos se les puede hacer polimorfismo como en el
+        ejemplo de arriba con el metodo ToString()*/
     }
 }
