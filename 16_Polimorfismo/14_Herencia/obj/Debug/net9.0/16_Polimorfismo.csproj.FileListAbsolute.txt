@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\bin\Debug\net9.0\16_Polimorfismo.exe
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\bin\Debug\net9.0\16_Polimorfismo.deps.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\bin\Debug\net9.0\16_Polimorfismo.runtimeconfig.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\bin\Debug\net9.0\16_Polimorfismo.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\bin\Debug\net9.0\16_Polimorfismo.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\16_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\16_Polimorfismo.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\16_Polimorfismo.AssemblyInfo.cs
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\16_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\16_Polimorfismo.sourcelink.json
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\16_Polimorfismo.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\refint\16_Polimorfismo.dll
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\16_Polimorfismo.pdb
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\16_Polimorfismo.genruntimeconfig.cache
+C:\Programas UNAH\2026-2\Programacion Orientada a Objetos\16_Polimorfismo\14_Herencia\obj\Debug\net9.0\ref\16_Polimorfismo.dll
