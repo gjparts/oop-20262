@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\bin\Debug\net9.0\17_Abstraccion.exe
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\bin\Debug\net9.0\17_Abstraccion.deps.json
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\bin\Debug\net9.0\17_Abstraccion.runtimeconfig.json
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\bin\Debug\net9.0\17_Abstraccion.dll
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\bin\Debug\net9.0\17_Abstraccion.pdb
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\17_Abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\17_Abstraccion.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\17_Abstraccion.AssemblyInfo.cs
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\17_Abstraccion.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\17_Abstraccion.sourcelink.json
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\17_Abstraccion.dll
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\refint\17_Abstraccion.dll
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\17_Abstraccion.pdb
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\17_Abstraccion.genruntimeconfig.cache
+P:\Programas UNAH\2026-2\Programacion Orientada a Objetos\17_Abstraccion\17_Abstraccion\obj\Debug\net9.0\ref\17_Abstraccion.dll
