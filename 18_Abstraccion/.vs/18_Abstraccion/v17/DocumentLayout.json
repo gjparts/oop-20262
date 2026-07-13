@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\18_abstraccion\\18_abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|solutionrelative:18_abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\18_abstraccion\\18_abstraccion\\trianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|solutionrelative:18_abstraccion\\trianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\18_abstraccion\\18_abstraccion\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|solutionrelative:18_abstraccion\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\18_abstraccion\\18_abstraccion\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|solutionrelative:18_abstraccion\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|c:\\programas unah\\2026-2\\programacion orientada a objetos\\18_abstraccion\\18_abstraccion\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF64B-5CE8-41D0-BB8B-0D9CD35BD092}|18_Abstraccion\\18_Abstraccion.csproj|solutionrelative:18_abstraccion\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrianguloEquilatero.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\TrianguloEquilatero.cs",
+              "RelativeDocumentMoniker": "18_Abstraccion\\TrianguloEquilatero.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\TrianguloEquilatero.cs",
+              "RelativeToolTip": "18_Abstraccion\\TrianguloEquilatero.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:27:02.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\Circulo.cs",
+              "RelativeDocumentMoniker": "18_Abstraccion\\Circulo.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\Circulo.cs",
+              "RelativeToolTip": "18_Abstraccion\\Circulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:23:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "18_Abstraccion\\Rectangulo.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\Rectangulo.cs",
+              "RelativeToolTip": "18_Abstraccion\\Rectangulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:18:27.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\Figura.cs",
+              "RelativeDocumentMoniker": "18_Abstraccion\\Figura.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\Figura.cs",
+              "RelativeToolTip": "18_Abstraccion\\Figura.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:11:19.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\Program.cs",
+              "RelativeDocumentMoniker": "18_Abstraccion\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-2\\Programacion Orientada a Objetos\\18_Abstraccion\\18_Abstraccion\\Program.cs",
+              "RelativeToolTip": "18_Abstraccion\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:10:46.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
