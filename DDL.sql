@@ -57,3 +57,34 @@ TRUNCATE TABLE Producto
 GO
 --TRUNCATE tambie les reinicia el campo autonumerico, a esto se le conoce
 --como TRUNCAR LA TABLA.
+
+--Alterar la estructura de una tabla, por ejemplo para agregar una columna
+--sin perder los datos ya existentes
+--para el nombre del Proveedor, de tipo varchar(150) y que admita NULL
+USE Gerardo
+GO
+ALTER TABLE Producto
+ADD Proveedor varchar(150) NULL
+GO
+
+--Alterar la estructura de una tabla para eliminar una columna
+--se perderan los datos de la columna borrada, los demas datos van
+--a permanecer.
+USE Gerardo
+GO
+ALTER TABLE Producto
+DROP COLUMN Proveedor
+GO
+
+--Alterar la estructura de una tabla para cambiar el tamaño
+--de una columna sin perder datos, por ejemplo si necesita ampliar
+--la cantidad de caracteres de un varchar
+--Ampliar el tamaño de la columna Nombre a 250 caracteres
+USE Gerardo
+GO
+ALTER TABLE Producto
+ALTER COLUMN Nombre varchar(255) NOT NULL
+GO
+
+--verificar la estructura de una tabla
+sp_help Producto
